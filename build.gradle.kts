@@ -21,7 +21,7 @@ dependencies {
     implementation("org.assertj:assertj-core:3.26.3")
     implementation("org.jetbrains:annotations:24.1.0")
     testImplementation("org.jetbrains.kotlin:kotlin-stdlib:2.0.0")
-    testImplementation("org.junit.jupiter:junit-jupiter:5.10.3")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.11.2")
     testImplementation("org.assertj:assertj-core:3.26.3")
 }
 
